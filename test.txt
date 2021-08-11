@@ -1,2 +1,8 @@
+<<<<<<< HEAD
+ 
+hello guys
+this is merge conflict hahahaha!
+=======
 hohoh
 yo mf git  conflict
+>>>>>>> 8dea525dafb2e7ed280577dabb2ecb99a39cb545
