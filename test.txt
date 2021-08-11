@@ -1,3 +1,3 @@
  
-hello guys, git test
+hello guys
 this is merge conflict hahahaha!
